@@ -23,6 +23,14 @@
       "^db(-?([0-9])+)?$"
     ],
     "phishing_words" : [
+      "bank",
+      "iban",
+      "abnamro",
+      "fortis",
+      "phish",
+      "gmial",
+      "steeam",
+      "steaam",
       "steam",
       "yahoo",
       "paypa",
@@ -120,7 +128,24 @@
       "outlook-com",
       "spamfinity-com",
       "hackforums-org",
-      "bk-ru"
+      "bk-ru",
+      "ikea",
+      "whatsapp",
+      "mastercard",
+      "dinnerexpress",
+      "americanexpress",
+      "ziggo",
+      "upc",
+      "baidu",
+      "duckduckgo",
+      "twitter",
+      "tmobile",
+      "t-mobile",
+      "vodafone",
+      "mcdonald",
+      "burgerking",
+      "rabobank",
+      "abnamro"
     ]
   }
 }
